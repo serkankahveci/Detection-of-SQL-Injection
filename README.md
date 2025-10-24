@@ -53,7 +53,7 @@ The structural difference indicates a SQL injection attack.
 
 1. Clone this repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/serkankahveci/Detection-of-SQL-Injection.git
 cd sql-injection-detection
 ```
 
